@@ -11,8 +11,6 @@ These are templates for React + Vite projects.
 
 ## Recommended Extensions
 
-以下のようにテーブルを更新しました。
-
 | Name                                                                                                       | Description                                                     |
 | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)                       | ESLint サポート                                                 |
